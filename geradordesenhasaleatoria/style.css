@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+/* primeiro passamos umas configurações global pra nossa folha de estilo */
+
 body{
     background-color: black;
     width: 100%;

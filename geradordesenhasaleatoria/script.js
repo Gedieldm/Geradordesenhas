@@ -1,3 +1,7 @@
+
+// começamos pegando nosso slider
+// sliderElement refeciando ao input quando assessamos!!
+
 let sliderElement = document.querySelector("#slider");
 let buttonElement = document.querySelector("#button");
 
