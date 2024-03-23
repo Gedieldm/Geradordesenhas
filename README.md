@@ -1,2 +1,2 @@
-# Geradordesenhas
- primeiro repositorio. 
+# Gerador de Senhas Aleatorias
+ Meu primeiro repositorio. 
